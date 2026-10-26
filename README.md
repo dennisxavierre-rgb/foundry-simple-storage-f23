@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+### Footnote
+
+It is very basic. Only for covering basics!.
